@@ -8,6 +8,6 @@
 ### Flexbox
 - [CSS-Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [MDN - Les concepts de base pour flexbox](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-https://flexboxfroggy.com/#fr
-https://www.flexboxdefense.com/
-https://mastery.games/flexboxzombies/
+- [Flexbox Froggy](https://flexboxfroggy.com/#fr)
+- [Flexbox Defense](https://www.flexboxdefense.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
